@@ -2,7 +2,7 @@
 layout: home
 sidebar: false
 
-title: Nólëbase
+title: 主页
 titleTemplate: 冷西风摄影网
 
 hero:
