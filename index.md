@@ -2,7 +2,7 @@
 layout: home
 sidebar: false
 
-title: 主页
+title: 冷西风主页
 titleTemplate: 冷西风摄影网
 
 hero:
